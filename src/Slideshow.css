@@ -1,0 +1,11 @@
+
+.slideshow {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.slideshow img {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}

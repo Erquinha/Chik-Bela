@@ -1,0 +1,28 @@
+
+.header {
+    background-color: #FFC0CB; /* Rosa bebê */
+    padding: 10px;
+    text-align: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav li {
+    display: inline;
+    background-color: #FF69B4; /* Rosa mais forte */
+    color: white;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+                    
